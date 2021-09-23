@@ -1,0 +1,20 @@
+@font-face {
+  src: url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+  font-family: "Alata", sans-serif;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap");
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 768px) {
+  .header-wrapper .header-text {
+    width: 90%;
+  }
+  .header-wrapper .header-text h1 {
+    font-size: 1.5rem;
+  }
+}
