@@ -29,7 +29,7 @@
 
 body {
   background-color: gray;
-  background: url(/images/desktop/image-hero.jpg) no-repeat center top;
+  background: url("../images/desktop/image-hero.jpg") no-repeat center top;
   background-size: 100vw 80vh;
   font-family: "Josefin Sans", sans-serif;
   font-weight: 300;
